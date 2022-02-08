@@ -1,2 +1,3 @@
 # Capstone
-code for ballot being used for incorporating Ethereum node with pallier encryption.
+Senior Capstone Project with goal of building a Proof-of-Concept for an online election running on blockchain technology.
+In addition, implementing the first ever use of pallier homomorphic encryption to secure the ballot results.
